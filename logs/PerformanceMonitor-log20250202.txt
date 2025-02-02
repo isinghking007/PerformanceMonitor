@@ -1,0 +1,32 @@
+2025-02-02 14:10:11.264 +05:30 [DBG] Hosting starting
+2025-02-02 14:10:18.808 +05:30 [INF] Performance Monitoring Service started
+2025-02-02 14:10:18.841 +05:30 [INF] CPU Usage: 0.00% | Available Memory: 3916.00 MB
+2025-02-02 14:10:18.851 +05:30 [INF] Worker running at: "2025-02-02T14:10:18.8431940+05:30"
+2025-02-02 14:10:18.867 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 14:10:18.869 +05:30 [INF] Hosting environment: Development
+2025-02-02 14:10:18.871 +05:30 [INF] Content root path: D:\Code\PerformanceMonitor
+2025-02-02 14:10:18.872 +05:30 [DBG] Hosting started
+2025-02-02 14:10:19.877 +05:30 [INF] CPU Usage: 16.97% | Available Memory: 3917.00 MB
+2025-02-02 14:10:19.884 +05:30 [INF] Worker running at: "2025-02-02T14:10:19.8840168+05:30"
+2025-02-02 14:10:20.900 +05:30 [INF] CPU Usage: 9.56% | Available Memory: 3920.00 MB
+2025-02-02 14:10:20.906 +05:30 [INF] Worker running at: "2025-02-02T14:10:20.9061691+05:30"
+2025-02-02 14:10:21.917 +05:30 [INF] CPU Usage: 11.61% | Available Memory: 3918.00 MB
+2025-02-02 14:10:21.921 +05:30 [INF] Worker running at: "2025-02-02T14:10:21.9216872+05:30"
+2025-02-02 14:10:22.941 +05:30 [INF] CPU Usage: 9.17% | Available Memory: 3919.00 MB
+2025-02-02 14:10:22.945 +05:30 [INF] Worker running at: "2025-02-02T14:10:22.9449995+05:30"
+2025-02-02 14:10:23.953 +05:30 [INF] CPU Usage: 12.72% | Available Memory: 3920.00 MB
+2025-02-02 14:10:23.955 +05:30 [INF] Worker running at: "2025-02-02T14:10:23.9555479+05:30"
+2025-02-02 14:10:24.962 +05:30 [INF] CPU Usage: 21.93% | Available Memory: 3904.00 MB
+2025-02-02 14:10:24.964 +05:30 [INF] Worker running at: "2025-02-02T14:10:24.9648656+05:30"
+2025-02-02 14:10:25.974 +05:30 [INF] CPU Usage: 8.85% | Available Memory: 3905.00 MB
+2025-02-02 14:10:25.976 +05:30 [INF] Worker running at: "2025-02-02T14:10:25.9762624+05:30"
+2025-02-02 14:10:26.993 +05:30 [INF] CPU Usage: 11.06% | Available Memory: 3912.00 MB
+2025-02-02 14:10:26.996 +05:30 [INF] Worker running at: "2025-02-02T14:10:26.9962753+05:30"
+2025-02-02 14:10:28.001 +05:30 [INF] CPU Usage: 9.68% | Available Memory: 3910.00 MB
+2025-02-02 14:10:28.003 +05:30 [INF] Worker running at: "2025-02-02T14:10:28.0032744+05:30"
+2025-02-02 14:10:29.009 +05:30 [INF] CPU Usage: 19.79% | Available Memory: 3913.00 MB
+2025-02-02 14:10:29.010 +05:30 [INF] Worker running at: "2025-02-02T14:10:29.0108775+05:30"
+2025-02-02 14:10:30.021 +05:30 [INF] CPU Usage: 9.31% | Available Memory: 3911.00 MB
+2025-02-02 14:10:30.026 +05:30 [INF] Worker running at: "2025-02-02T14:10:30.0265165+05:30"
+2025-02-02 14:10:31.043 +05:30 [INF] CPU Usage: 23.22% | Available Memory: 3918.00 MB
+2025-02-02 14:10:31.047 +05:30 [INF] Worker running at: "2025-02-02T14:10:31.0471244+05:30"
